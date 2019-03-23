@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="hello">Hello World, MainActivity!</string>
+    <string name="app_name">PDF Download Activity</string>
+    <string name="pdf1">PDF1 File Location:</string>
+    <string name="pdf2">PDF2 File Location:</string>
+    <string name="pdf3">PDF3 File Location:</string>
+    <string name="pdf4">PDF4 File Location:</string>
+    <string name="pdf5">PDF5 File Location:</string>
+</resources>
